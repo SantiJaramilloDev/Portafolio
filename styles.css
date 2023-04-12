@@ -1,0 +1,13 @@
+.text-home{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-about{
+    font-weight: bold ;
+    text-align: justify;
+}
+
+.list-unstyled{
+    font-weight: bold ;
+}
