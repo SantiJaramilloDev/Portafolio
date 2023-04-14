@@ -53,3 +53,32 @@
 }
 
 /* ---------------------------------------------------- */
+
+/* --------------------contact.html-------------------- */
+
+.text-contact{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.row-contact{
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.link-like-text{
+    text-decoration: underline;
+}
+
+.link-like-text:hover{
+    color: rgb(62, 51, 206);
+    font-size: 30px;
+    transition: 300ms;
+}
+
+/* ----------------------------------------------------- */
